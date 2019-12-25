@@ -98,7 +98,7 @@ public class P2 {
     public String toString() {
         StringBuilder sb = new StringBuilder();
 
-        sb.append("x: ").append(this.x).append("y: ").append(this.y);
+        sb.append("x: ").append(this.x).append("\ny: ").append(this.y);
 
         return sb.toString();
     }

@@ -49,6 +49,6 @@ public class P4 extends P3 {
     }
 
     public String toString() {
-        return  super.toString() + "a: " + this.a;
+        return  super.toString() + "\na: " + this.a + "\n ****************";
     }
 }

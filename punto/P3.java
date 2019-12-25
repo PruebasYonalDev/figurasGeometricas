@@ -101,6 +101,6 @@ public class P3 extends  P2 {
      }
 
      public String toString() {
-         return super.toString() + "z: " + this.z;
+         return super.toString() + "\nz: " + this.z;
      }
 }
